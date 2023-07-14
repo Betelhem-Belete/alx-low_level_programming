@@ -1,18 +1,16 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
 
 /**
  * main - Prints a text according number
- * Return: Always (Success)
+ *
+ *Return: Always (Success)
  *
  */
 
 int main(void)
 {
-
         int n, lastd;
 
         srand(time(0));
@@ -32,4 +30,5 @@ int main(void)
         printf("Last digit of %d is %d and is less than 6 and not 0\n", n, lastd);
         }
         return (0);
+
 }
