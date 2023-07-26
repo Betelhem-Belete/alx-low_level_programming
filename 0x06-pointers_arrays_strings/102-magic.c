@@ -17,7 +17,7 @@ int main(void)
  * - only one statment
  * - you are not allowed to code anything else than this line of code
  */
-*(p + 5 = 98;
+*(p + 5) = 98;
 /**
  * ...so that this prints 98\n
  */
