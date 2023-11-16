@@ -1,2 +1,2 @@
 # alx-low_level_programming
-c programming exercises practce
+low level c programming exercises practice
